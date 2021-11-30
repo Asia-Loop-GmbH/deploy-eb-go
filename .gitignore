@@ -1,3 +1,7 @@
+deploy.zip
+deploy-eb-go
+.idea/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
